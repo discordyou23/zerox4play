@@ -14,20 +14,7 @@ client.user.setGame(`4music`,'https://www.twitch.tv/fofodiscord');
 
 
 
-const child_process = require("child_process");
-const adminprefix = "4";
-const devs = ['382889731316514826'];
 
-client.on('message', message => {
-if(message.content === adminprefix + "restart") {
-      if (!devs.includes(message.author.id)) return;
-        console.log(⚠️ جاري اعادة تشغيل البوت... ⚠️);
-        client.destroy();
-        child_process.fork(__dirname + "/bot.js");
-        console.log(تم اعادة تشغيل البوت);
-    }
-  
-  });
 
 
 
