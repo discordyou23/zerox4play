@@ -6439,7 +6439,7 @@ LOka.on('message', message => {
 
 
 
-client.on("message", message => {
+LOka.on("message", message => {
  if (message.content === "!help") {
         message.react("😮")
                 message.react("🤒")
