@@ -6399,7 +6399,7 @@ if (message.content.startsWith("!setvoice")) {
 
 
 LOka.on('ready', () => {
-   Loka.user.setGame("King Rp Bot !help");
+   LOka.user.setGame("King Rp Bot !help");
 }); 
 
 
