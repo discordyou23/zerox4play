@@ -1,6 +1,5 @@
 const Discord = require("discord.js");
 const LOka = new Discord.Client();
-const convert = require("hh-mm-ss")
 const dateFormat = require('dateformat');
 const fs = require('fs');
 const pretty = require('pretty-ms');
