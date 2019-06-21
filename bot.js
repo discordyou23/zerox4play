@@ -3,7 +3,6 @@ const LOka = new Discord.Client();
 const dateFormat = require('dateformat');
 const fs = require('fs');
 const pretty = require('pretty-ms');
-const rn = require('random-number');
 const moment = require('moment');
 const prefix = "!";
 console.log('By Randy');
