@@ -24,7 +24,6 @@ console.log(`Logged in as  * [ "  Randy " ] servers! [ " ${LOka.guilds.size} " ]
    
  
 });
-var prefix = "king2019"
 LOka.on("message", message => {
   if(!message.content.startsWith(prefix)) return;;
   let args = message.content.split(" ").slice(1);
